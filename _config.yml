@@ -3,6 +3,8 @@ description: Digital humanities & language tools by Hela Nomad
 url: https://labs.helanomad.com
 remote_theme: mmistakes/minimal-mistakes
 
+minimal_mistakes_skin: dark
+
 plugins:
   - jekyll-include-cache
   - jekyll-paginate
