@@ -3,7 +3,7 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: 0.35
-  overlay_image: /assets/cover.png
+  #overlay_image: /assets/cover.png
 ---
 
 <style>
