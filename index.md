@@ -1,11 +1,9 @@
 ---
 layout: splash
-subtitle: Digital Humanities • Scripts • Tools
 header:
   overlay_color: "#000"
   overlay_filter: 0.35
   overlay_image: /assets/cover.png
-excerpt: Explore experiments, transliterators, and research projects built by Hela Nomad LABS.
 ---
 
 <style>
