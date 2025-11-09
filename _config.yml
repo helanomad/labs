@@ -1,0 +1,37 @@
+title: Hela Nomad | Labs
+description: Digital humanities & language tools by Hela Nomad
+url: https://labs.helanomad.com
+remote_theme: mmistakes/minimal-mistakes
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-archives
+
+# Collections (optional, if you want detail pages per tool)
+collections:
+  tools:
+    output: true
+
+# Navigation
+nav:
+  - title: Tools
+    url: /#tools
+  - title: About
+    url: /#about
+  - title: Updates
+    url: /#updates
+  - title: Contact
+    url: /#contact
+
+# Social/footer
+footer:
+  links:
+    - label: Main Site
+      url: https://helanomad.com
+    - label: YouTube
+      url: https://www.youtube.com/@HelaNomad
+    - label: Blog
+      url: https://blog.helanomad.com
+    - label: GitHub
+      url: https://github.com/helanomad
